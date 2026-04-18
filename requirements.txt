@@ -1,0 +1,4 @@
+strands-agents
+temporalio
+google-generativeai
+python-dotenv
