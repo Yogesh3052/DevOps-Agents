@@ -4,7 +4,7 @@ from strands_tools import http_request
 
 model = GeminiModel(
     client_args={
-        "api_key": "AIzaSyDcVvhdhZ3UzLHOrwvndbdpWRnPZcy2_6M",
+        "api_key": "YOUR_API",
     },
     # **model_config
     model_id="gemini-3.1-flash-lite-preview",
